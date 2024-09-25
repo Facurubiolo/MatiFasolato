@@ -6,9 +6,9 @@
 </a>
 </p>
 
-- 🔭 Me encuentro estudiando Ciencia de Datos en <a href="https://www.austral.edu.ar/">Universidad Austral</a>
+- 🔭 Me encuentro estudiando Ciencia de Datos en la <a href="https://www.austral.edu.ar/">Universidad Austral</a>.
 
-- 🌍 **Idioma:** Español (nativo), Inglés (nivel básico)
+- 🌍 **Idioma:** Español (nativo), Inglés (nivel básico).
 
 - 📫 **Contacto:** fasolatomatias@gmail.com
 
