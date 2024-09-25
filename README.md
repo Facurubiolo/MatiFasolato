@@ -1,4 +1,4 @@
-<h1 align="center">Hola, yo soy Matías👋</h1>
+<h1 align="center">Hola, soy Matías👋</h1>
 
 <p align="left">
 <a href="mailto:fasolatomatias@gmail.com" target="blank">
@@ -8,7 +8,7 @@
 
 - 🔭 Me encuentro estudiando Ciencia de Datos en la <a href="https://www.austral.edu.ar/">Universidad Austral</a>.
 
-- 🌍 **Idioma:** Español (nativo), Inglés (nivel básico).
+- 🌍 **Idiomas:** Español (nativo), Inglés (nivel básico).
 
 - 📫 **Contacto:** fasolatomatias@gmail.com
 
